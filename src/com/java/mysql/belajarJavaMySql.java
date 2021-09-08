@@ -12,7 +12,7 @@ import java.sql.ResultSet;
 
 public class belajarJavaMySql {
 
-    // Menyiapkan paramter JDBC untuk koneksi ke datbase
+    // Menyiapkan paramter JDBC untuk koneksi ke database
     static final String JDBC_DRIVER = "com.mysql.jdbc.Driver";
     static final String DB_URL = "jdbc:mysql://localhost/perpustakaan";
     static final String USER = "root";
